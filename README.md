@@ -1,0 +1,1 @@
+This is SummerStudies's first git project!
